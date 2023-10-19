@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(160, 180, 74);
+    text-decoration:double;
+    size: auto;
+    font-style: normal;
+}
+body{
+    position:relative;
+    height: 400px;
+    width: 400px;
+    margin: 50px auto;
+    /*bordas e arredondamentos*/
+    border-width: 20px;
+    border-style:double;
+    border-color: rgb(67, 116, 27);
+    /*imagem de fundo*/
+    background-size: cover;
+    background-image:url(img/Bald_eagle_Portairt.jpg);
+    box-shadow:inset;
+    text-align: center;
+    box-shadow: inset 26px 6px 23px;
+    background: size 100px;
+
+   /* Preenchimento interno */ 
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+    outline-width: 56px;
+    outline-style: double;
+    outline-color: rgb(39, 61, 36);
+margin-top: 50px;
+margin:auto;
+}
